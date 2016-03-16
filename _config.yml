@@ -1,0 +1,28 @@
+name: JustSayinPage
+favicon: null
+layout_spectrum: 0.7782806202303618
+typography_spectrum: 0.4569057978224009
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.011514905607327819
+  lightness: 0.563143405597657
+  saturation: 0.433039712253958
+  rhythmicContrast: 0.6709477219264954
+purpose: []
