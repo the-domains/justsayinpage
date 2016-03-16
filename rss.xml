@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[JustSayinPage]]></title>
         <description><![CDATA[JustSayinPage]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/justsayinpage/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Mar 2016 01:57:48 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 16 Mar 2016 02:20:12 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/justsayinpage/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[TESTING]]></title>
+            <description><![CDATA[<article><h1>TESTING</h1><p>This is a test. This is a test. This is a test. This is a test. This is a test. This is a test. This is a test.This is a test. This is a test.This is a test.This is a test. This is a test.This is a test. This is a test. This is a test.This is a test.This is a test.This is a test.This is a test.This is a test.This is a test.This is a test.This is a test.This is a test. This is a test. v This is a test.This is a test.This is a test. This is a test. This is a test.</p></article>]]></description>
+            <link>https://thegrid.ai/justsayinpage/testing/index.html</link>
+            <guid isPermaLink="false">7726e4b4-c94d-447e-bcee-07c2c88a1062</guid>
+            <pubDate>Wed, 16 Mar 2016 02:20:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>I'm redesigning my website using The Grid! </p>]]></description>
-            <link>undefined7d7b33ab-0652-4fcc-ade6-e099023449f4/index.html</link>
+            <link>https://thegrid.ai/justsayinpage/7d7b33ab-0652-4fcc-ade6-e099023449f4/index.html</link>
             <guid isPermaLink="false">7d7b33ab-0652-4fcc-ade6-e099023449f4</guid>
             <pubDate>Wed, 16 Mar 2016 01:57:48 GMT</pubDate>
         </item>
