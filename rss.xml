@@ -2,14 +2,28 @@
     <channel>
         <title><![CDATA[JustSayinPage]]></title>
         <description><![CDATA[JustSayinPage]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://justsayinpage.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 11 May 2016 03:15:48 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 11 May 2016 04:13:57 GMT</lastBuildDate>
+        <atom:link href="http://justsayinpage.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac83b457-8ef6-4984-bbb2-90ae457d852a.jpg">]]></description>
+            <link>http://justsayinpage.com/0b6c36e2-dce1-491e-a18b-0153370d553b/index.html</link>
+            <guid isPermaLink="false">0b6c36e2-dce1-491e-a18b-0153370d553b</guid>
+            <pubDate>Wed, 11 May 2016 04:13:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/85246ca3-992a-456b-8777-cb54e3ff73d5.jpg">]]></description>
+            <link>http://justsayinpage.com/b3a1aa80-218b-4158-849b-ccaff5f02053/index.html</link>
+            <guid isPermaLink="false">b3a1aa80-218b-4158-849b-ccaff5f02053</guid>
+            <pubDate>Wed, 11 May 2016 04:09:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Hello world. </p>]]></description>
-            <link>undefinedhello-world/index.html</link>
+            <link>http://justsayinpage.com/hello-world/index.html</link>
             <guid isPermaLink="false">f2cdf07e-3754-4eff-a6f9-2fadde178bc5</guid>
             <pubDate>Wed, 11 May 2016 03:15:47 GMT</pubDate>
         </item>
