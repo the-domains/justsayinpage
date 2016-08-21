@@ -1,19 +1,4 @@
-name: JustSayinPage
-favicon: null
-layout_spectrum: 0.79873
 typography_spectrum: 0.50335
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#000000'
@@ -25,4 +10,23 @@ color:
   lightness: 0.5
   saturation: 0.6875
   rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.79873
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: JustSayinPage
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: '@JustSayinPage'
+    url: www.facebook.com/JustSayinPage
+    type: external
+favicon: null
 purpose: []
