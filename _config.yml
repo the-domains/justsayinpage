@@ -24,23 +24,23 @@ color:
     - '#486d9a'
     - '#a7b5be'
   rhythmicContrast: 0.75
-navigation:
-  - name: '@JustSayinPage'
-    url: www.facebook.com/JustSayinPage
-    type: external
-analytics:
-  twitter: null
-  google: null
-  facebook: '270880233073839'
-favicon: null
 cta:
   bucket: null
   version: null
   domain: null
+navigation:
+  - name: '@JustSayinPage'
+    url: www.facebook.com/JustSayinPage
+    type: external
 name: JustSayinPage
+favicon: null
+analytics:
+  twitter: null
+  google: null
+  facebook: '270880233073839'
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.50335
-layout_spectrum: 0.5382979
+layout_spectrum: 0.2595745
