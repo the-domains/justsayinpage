@@ -15,29 +15,29 @@ collections:
 description: 'Clever quotes, witty jokes and thoughts provoked...on the daily. '
 color:
   saturation: 0.8
-  brandStrength: 0.25
+  brandStrength: 0.8808511
   lightness: 0.5276596
   brandColors:
-    - '#000000'
-    - '#ffffe7'
-    - '#1e355e'
-    - '#486d9a'
-    - '#a7b5be'
+    - '#BDCAB8'
+    - '#F7E6BA'
+    - '#EFD2AC'
+    - '#A7B0A1'
+    - '#D2BA97'
   rhythmicContrast: 0.75
-cta:
-  bucket: null
-  version: null
-  domain: null
 navigation:
   - name: '@JustSayinPage'
     url: www.facebook.com/JustSayinPage
     type: external
-name: JustSayinPage
-favicon: null
 analytics:
   twitter: null
   google: null
   facebook: '270880233073839'
+name: JustSayinPage
+favicon: null
+cta:
+  bucket: null
+  version: null
+  domain: null
 opengraph:
   image: null
   type: null
