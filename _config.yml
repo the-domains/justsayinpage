@@ -6,38 +6,38 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 description: 'Clever quotes, witty jokes and thoughts provoked...on the daily. '
 color:
   saturation: 0.8
   brandStrength: 0.8808511
   lightness: 0.5276596
   brandColors:
-    - '#BDCAB8'
-    - '#F7E6BA'
-    - '#EFD2AC'
-    - '#A7B0A1'
-    - '#D2BA97'
+    - '#FFFCE9'
+    - '#000000'
+    - '#02FAEC'
+    - '#049DBF'
+    - '#F87EE7'
   rhythmicContrast: 0.75
 navigation:
   - name: '@JustSayinPage'
     url: www.facebook.com/JustSayinPage
     type: external
-analytics:
-  twitter: null
-  google: null
-  facebook: '270880233073839'
-name: JustSayinPage
-favicon: null
 cta:
   bucket: null
   version: null
   domain: null
+name: JustSayinPage
+favicon: null
+analytics:
+  twitter: null
+  google: null
+  facebook: '270880233073839'
 opengraph:
   image: null
   type: null
